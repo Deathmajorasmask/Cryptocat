@@ -1,0 +1,21 @@
+*****************************************************************
+**************** Programado por Deathmajorasmask ****************
+**************** XAMPP Version 7.2.10  CPV(3.2.2)****************
+*****************************************************************
+
+Chat enfocado en equipos de intercambio de mensajes que solicita contraseñas para unirse. 
+Inspirado en Microsft Teams y el servicio descontinuado de Cryptocat.
+
+Programa Web que utiliza php, ajax, xampp, mysql.
+
+La BD se encuentra en su carpeta correspondiente, tratar de usar phpMyAdmin
+Mas información se encuentra en el mismo fichero
+
+La conexión a la BD se encuentra en el fichero conn.php, modificar para tener una conexión mejor.
+
+Sientase libre de modificar el código php, pero favor de dar el credito correspondiente.
+
+*Nota: El usuario Administrador lleva por credenciales Deathmajorasmask y su contraseña Password
+Respetar las mayusculas al introducir las credenciales.
+
+**Nota: Los usuarios registrador llevar por contraseña Password.
