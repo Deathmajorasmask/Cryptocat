@@ -44,7 +44,7 @@
 
 [![Product Name Screen Shot][screenshot]](https://github.com/Deathmajorasmask/Cryptocat)
 
-Its a chat inspired by the 'Cryptocat' browser extension, programmed in php. Its operation is based on password rooms to ensure that only permitted users are chatting.
+Its a chat inspired by the 'Cryptocat' browser extension, developed in php. Its operation is based on password rooms to ensure that only permitted users are chatting.
 
 The messaging system constantly consults an encrypted database in mysql, it also works as a core for the development of new systems for publishing photos, memes, transferring private messages and other things.
 
